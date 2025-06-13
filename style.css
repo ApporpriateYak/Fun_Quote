@@ -1,12 +1,12 @@
 body{
-    font-family: Arial, sans-serif;
+    font-family: Poppins, Arial, Helvetica, sans-serif;
     background-color: #F2F2F2;
     text-align: center;
     padding: 20px;
 }
 h1{
     color: #000000;
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 hr{
     padding: 2px;
@@ -15,7 +15,8 @@ hr{
 .fact {
     font-family: Poppins, Arial, Helvetica, sans-serif;
     padding: 20px;
-    width: 600px;
+    width: 90%;
+    max-width: 600px;
     border-radius: 10px;
     margin: auto;
   }
@@ -23,12 +24,13 @@ hr{
     font-size: 1.25rem;
     margin-bottom: 5px;
     font-style: oblique;
+      line-height: 1.6;
   }
   .fact p {
     font-style: italic;
     padding: 5px;
     text-align: right;
-    font-size: 16px;
+    font-size: 17px;
   }
 .button{
     margin-top: 20px;

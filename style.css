@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #F2F2F2;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: #000000;
+    font-size: 2rem;
+}
+hr{
+    padding: 2px;
+    background-color: #000;
+}
+.fact {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 600px;
+    border-radius: 10px;
+    margin: auto;
+  }
+  .fact h3 {
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+    font-style: oblique;
+  }
+  .fact p {
+    font-style: italic;
+    padding: 5px;
+    text-align: right;
+    font-size: 16px;
+  }
+.button{
+    margin-top: 20px;
+  }
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #333;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    opacity: 0.85;
+  }

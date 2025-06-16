@@ -1,1 +1,1 @@
-Wana know some fun fact!!!!
+Wana know some fun Quote!!!!
